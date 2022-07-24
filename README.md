@@ -18,6 +18,9 @@ This solution was written in C# with .NET 6.0.  You can use the "dotnet" command
 
 The program takes one argument - the text file containing the words to use.
 
+** crude python version ** I've translated the C# into python. I'm not a python programmer so it could be improved. Also the python version
+does not have any parallelism so is a **lot slower** but still faster than Matt Parker's solution. It completes in minutes not months.
+
 
 ## Algorithm overview
 
