@@ -1,0 +1,21 @@
+Number of words    : 8324
+Number of Bitmasks : 5183
+Starting search...
+Time: 0s Searches: 0 - Solutions: 0
+Solution: chunk  || fjord  || gymps  || vibex  || waltz 
+Solution: bemix  || clunk  || grypt  || vozhd  || waqfs 
+Solution: blunk  || cimex  || grypt  || vozhd  || waqfs 
+Time: 5s Searches: 48702548 - Solutions: 3
+Solution: brung  || cylix xylic  || kempt  || vozhd  || waqfs 
+Solution: fjord  || gucks  || nymph  || vibex  || waltz 
+Solution: clipt  || jumby  || kreng  || vozhd  || waqfs 
+Time: 10s Searches: 98019861 - Solutions: 6
+Solution: glent  || jumby  || prick  || vozhd  || waqfs 
+Time: 15s Searches: 144040243 - Solutions: 7
+Solution: jumby  || pling  || treck  || vozhd  || waqfs 
+Time: 20s Searches: 181252869 - Solutions: 8
+Solution: bling  || jumpy  || treck  || vozhd  || waqfs 
+Solution: brick  || glent  || jumpy  || vozhd  || waqfs 
+Time: 25s Searches: 198358957 - Solutions: 10
+Finished search
+Time: 25s Searches: 198579404 - Solutions: 10
