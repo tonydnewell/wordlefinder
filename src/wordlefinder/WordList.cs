@@ -84,7 +84,8 @@ namespace wordlefinder
 
             foreach (char c in word)
             {
-                bitmask |= (uint) (1 << c);
+                int charIndex = (c - 'a' + 1);
+                bitmask |= (uint) (1 << charIndex);
             }
 
             return bitmask;
